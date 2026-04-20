@@ -1,0 +1,7 @@
+tokens.json
+.env
+__pycache__/
+*.pyc
+node_modules/
+dist/
+Thumbs.db
